@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tw.tcnr06.recipe">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher001"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher001_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Homepic"
+            android:screenOrientation="locked">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Copen03"
+            android:screenOrientation="locked"></activity>
+        <activity android:name=".Cbook"
+            android:screenOrientation="locked"></activity>
+        <activity android:name=".Copen01"
+            android:screenOrientation="locked"></activity>
+        <activity android:name=".CeditMain"
+            android:screenOrientation="locked"></activity>
+        <activity android:name=".Cooklist"
+            android:screenOrientation="locked"></activity>
+        <activity android:name=".HomePage"
+            android:screenOrientation="locked"></activity>
+        <activity android:name=".CHPage"
+            android:screenOrientation="locked"></activity>
+    </application>
+
+</manifest>

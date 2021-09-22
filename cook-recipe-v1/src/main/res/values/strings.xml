@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">食譜小幫手</string>
+    <string name="class_title">食譜小幫手</string>
+    <string name="txtView">食譜列表</string>
+    <string name="action_settings">結束</string>
+
+
+</resources>

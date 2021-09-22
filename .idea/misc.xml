@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/cedit_hp.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/cedit_hp_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/cedit_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/cookbook.xml" value="0.153125" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/cooklist.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/copen.xml" value="0.153125" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/fridge_hp.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/layout/recipe_list_item.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cook-recipe-v1/src/main/res/menu/main.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign-0917-v1/src/main/res/layout/cedit_hp.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign-0917-v1/src/main/res/layout/cedit_hp_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign-0917-v1/src/main/res/layout/cedit_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign-0917-v1/src/main/res/layout/cooklist.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign-0917-v1/src/main/res/layout/recipe_list.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign-0917-v1/src/main/res/layout/recipe_list_item.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign0906/src/main/res/layout/googlelogin.xml" value="0.26145833333333335" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign0906/src/main/res/layout/shoplist_main.xml" value="0.13489583333333333" />
+        <entry key="..\:/android-work/CH21-googleplay/cooksign0906/src/main/res/menu/shoplist_main.xml" value="0.153125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
